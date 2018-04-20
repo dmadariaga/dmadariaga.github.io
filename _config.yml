@@ -17,13 +17,13 @@ baseurl: ""
 title: Diego Madariaga
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Personal Website
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
+  Home: "/"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
