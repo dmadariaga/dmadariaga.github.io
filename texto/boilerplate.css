@@ -72,7 +72,10 @@ a:hover, a:active { outline: 0; }
 
 abbr[title] { border-bottom: 1px dotted; }
 
-b, strong { font-weight: bold; }
+b, strong {
+	font-weight: bold;
+	font-size: 16px;
+}
 
 blockquote { margin: 1em 40px; }
 
